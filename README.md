@@ -1,6 +1,5 @@
 # 🧠 Knowledge Hub - Developer Arsenal
-
-A centralized repository containing my development journey and technical knowledge base. This collection includes cheatsheets, study materials, project documentation, and progress tracking across multiple technologies.
+This collection includes cheatsheets, study materials, project documentation, and progress tracking across multiple technologies.
 
 ## 🎯 Technology Focus
 
